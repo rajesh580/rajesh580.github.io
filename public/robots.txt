@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rajesh580.github.io/my-portfolio/sitemap.xml
+Sitemap: https://rajesh580.github.io/sitemap.xml
